@@ -1,0 +1,8 @@
+{
+  "demo": "AuraMed Clinical Co-Pilot",
+  "sample": "CHEST PAIN",
+  "soap_extraction": "successful",
+  "chads2_score": 5,
+  "drug_interactions_checked": 3,
+  "interactions_found": true
+}
